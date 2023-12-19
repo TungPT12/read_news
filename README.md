@@ -13,7 +13,7 @@
 
 ## Link Live
 
-* https://eccomerce-admin.netlify.app
+* https://tungpt12.github.io/read_news/
 
 
 ## Build Withs
