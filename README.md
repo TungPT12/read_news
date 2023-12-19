@@ -3,6 +3,7 @@
 ## Introduction
 * The project only handles logic in javascript.
 * The project can read news,  search news, make todo list, login, logout and register.
+* Data save in local storage.
 
 ## Problem
 
